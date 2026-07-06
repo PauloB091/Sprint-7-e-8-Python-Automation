@@ -1,29 +1,29 @@
-# Python para Automacao de Testes
+# Python para Automação de Testes
 
-Repositorio documentando o estudo de Python aplicado a automacao de testes, cobrindo logica de programacao, ferramentas de desenvolvimento e testes automatizados com Selenium.
+Repositório documentando o estudo de Python aplicado a automação de testes, cobrindo lógica de programação, ferramentas de desenvolvimento e testes automatizados com Selenium.
 
 Python Basico
 
-- Sintaxe basica, variaveis e tipos de dados
+- Sintaxe básica, variaveis e tipos de dados
 - Estruturas condicionais (if, elif, else)
-- Lacos de repeticao (for, while)
-- Funcoes e escopo
+- Laços de repeticao (for, while)
+- Funções e escopo
 - Listas, tuplas, dicionarios e conjuntos
 - Tratamento de excecoes (try, except, finally)
 
 Logica de Programacao
 
-- Raciocinio logico aplicado a resolucao de problemas
+- Raciocinio logico aplicado a resolução de problemas
 - Algoritmos e fluxo de execucao
 - Estrutura de dados basicas
-- Boas praticas de codificacao
+- Boas praticas de codificação
 
 Ferramenta PyCharm
 
-- Configuracao de interpretador e virtual environment
+- Configuração de interpretador e virtual environment
 - Atalhos uteis: Ctrl+Shift+F10 (executar), Ctrl+D (duplicar linha), Ctrl+Alt+L (formatar)
-- Depuracao com breakpoints
-- Integracao com Git pelo IDE
+- Depuração com breakpoints
+- Integração com Git pelo IDE
 
 Git e GitHub
 
@@ -35,7 +35,7 @@ Git e GitHub
 PyTest
 
 - Estrutura de arquivos de teste (test_*.py)
-- Asserts e validacoes
+- Asserts e validaçoes
 - Fixtures para setup e teardown
 - Marcadores (mark) para categorizacao
 - Execucao via terminal e relatorios
@@ -53,9 +53,9 @@ XPath: caminho absoluto vs relativo, //, @, contains(), text()
 
 Selenium WebDriver
 
-- Instalacao e configuracao do WebDriver
-- Localizacao de elementos (find_element, find_elements)
-- Acoes: click, send_keys, submit
+- Instalação e configuração do WebDriver
+- Localização de elementos (find_element, find_elements)
+- Ações: click, send_keys, submit
 - Esperas implicitas e explicitas (WebDriverWait)
 - Navegacao entre abas e janelas
 
